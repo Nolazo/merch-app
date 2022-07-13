@@ -9,9 +9,12 @@ const Payment = () => {
         <div className="Payment-button">
           Pago Paypal
         </div>
+        
       </div>
     </div>
   )
 }
 
 export default Payment
+
+
